@@ -1,0 +1,24 @@
+{
+  "name": "dk.unf.game.tooling",
+  "displayName": "GDC Tooling",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "This is the GDC tooling we use on the camp held by the danish youth association of science",
+  "keywords": [
+    "Tooling",
+    "GDC",
+    "Game Dev",
+    "Game Dev Camp",
+    "Camp"
+  ],
+  "category": "Tooling",
+  "repository": {
+    "url": "https://github.com/UNFDanmark/GDCTooling-UnityPackage.git",
+    "type": "git",
+    "revision": "11e57e3b7de18af9dfe9baaa0a0ff5cc4765c899"
+  },
+  "upmCi": {
+    "footprint": "cfe9ad7192cdd29486fc5980b5ac7d0b3fafcec6"
+  },
+  "type": "tool"
+}
